@@ -29,7 +29,7 @@ numeros = [52, 16, 14, 72]
 ##for num in range (21):
     ##print(num)
 
-#Forma de recorrer una lista o tupla con sus indices
+#Forma de recorrer una lista o tupla con sus indices si se requiere
 for numero in enumerate(numeros):
     indice = numero[0]
     valor = numero[1]
