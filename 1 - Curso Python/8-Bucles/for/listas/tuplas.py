@@ -21,7 +21,7 @@ numeros = [52, 16, 14, 72]
 ##for num in range (5, 11, 1):
     ##print(num)
     
-#otra forma de escribir este parametro: Se oite el tercer parametro
+#otra forma de escribir este parametro: Se omite el tercer parametro
 ##for num in range (5,11):
     ##print(num)
     
